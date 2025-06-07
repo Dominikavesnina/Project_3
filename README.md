@@ -15,8 +15,8 @@
 1.  **Клонируйте репозиторий:**
 
     ```bash
-    git clone [ссылка на ваш репозиторий]
-    cd [название папки проекта]
+    git clone https://github.com/Dominikavesnina/Project_3.git
+    cd Project_3
     ```
 
 2.  **Создайте виртуальное окружение (рекомендуется):**
